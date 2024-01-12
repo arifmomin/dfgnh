@@ -1,0 +1,101 @@
+/* ======================font link start=================== */
+@import url('https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,200;7..72,300;7..72,400;7..72,500;7..72,600;7..72,700;7..72,800;7..72,900&display=swap');
+/* --------------------font link end---------------------- */
+/* =======================common css start===================== */
+*{
+    padding: 0%;
+    margin: 0%;
+    outline: 0;
+    box-sizing: border-box;
+}
+ul,ol{
+    list-style: none;
+}
+h1,h2,h3,h4,h5,h6,p,a,ul,ol{
+    padding: 0%;
+    margin: 0%;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+/* ----------------------common css end----------------------- */
+/* ======================css veriable part start==================== */
+:root{
+    --literata: 'Literata', serif;
+}
+
+
+
+
+/* ----------------------css veriable part end-------------------- */
+/* ========================menu part start==================== */
+.menu_bar{
+    height: 100px;
+    background: linear-gradient(95deg, #1E2024 0%, #23272B 100%) !important;
+    box-shadow: 10px 10px 19px #1C1E22;
+}
+.menu_logo{
+    width: 120px !important;
+    height: 80px !important;
+}
+.menu_bar .menu_list{
+    gap: 25px;
+}
+.menu_bar .menu_list .nav-item .nav-link{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: var(--literata);
+    color: #fff;
+}
+.dropdown-toggle::after {
+    font-size: 18px;
+font-family: "Font Awesome 5 Free";
+    font-weight: 400;
+content: "\f107";
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------------menu part end--------------------- */
+/* ========================menu part start==================== */
+
+/* ------------------------menu part end--------------------- */
+/* ========================menu part start==================== */
+
+/* ------------------------menu part end--------------------- */
+/* ========================menu part start==================== */
+
+/* ------------------------menu part end--------------------- */
+/* ========================menu part start==================== */
+
+/* ------------------------menu part end--------------------- */
+/* ========================menu part start==================== */
+
+/* ------------------------menu part end--------------------- */
+/* ========================menu part start==================== */
+
+/* ------------------------menu part end--------------------- */
+/* ========================menu part start==================== */
+
+/* ------------------------menu part end--------------------- */
+/* ========================menu part start==================== */
+
+/* ------------------------menu part end--------------------- */
